@@ -1,0 +1,14 @@
+﻿<Window x:Class="_11._10._2018_P.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_11._10._2018_P"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="435.635" Width="997.017">
+    <Grid Margin="-74,0,74,-0.6">
+
+        <Button Background="DarkOrange"  Content="בחר תקית מקור" Click="choose_folder" Margin="363,277,233.4,58"/>
+        <Image Source="C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\31.10.2018\11.10.2018 P\לוגו.jpg" Margin="391,70,279.4,170" ></Image>
+    </Grid>
+</Window>

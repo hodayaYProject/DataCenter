@@ -1,0 +1,32 @@
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\bin\Debug\11.10.2018 P.exe.config
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\bin\Debug\11.10.2018 P.exe
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\bin\Debug\11.10.2018 P.pdb
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\11.10.2018 P.csprojResolveAssemblyReference.cache
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\MainWindow.g.cs
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\App.g.cs
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\11.10.2018 P_MarkupCompile.cache
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\11.10.2018 P_MarkupCompile.lref
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\MainWindow.baml
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\11.10.2018 P.g.resources
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\_11._10._2018_P.Properties.Resources.resources
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\11.10.2018 P.csproj.GenerateResource.Cache
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\11.10.2018 P.exe
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\11.10.2018 P\11.10.2018 P\obj\Debug\11.10.2018 P.pdb
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.csprojResolveAssemblyReference.cache
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\MainWindow.g.cs
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\App.g.cs
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P_MarkupCompile.cache
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P_MarkupCompile.lref
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.exe
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.pdb
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\11.10.2018 P.exe.config
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\11.10.2018 P.exe
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\11.10.2018 P.pdb
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\MainWindow.baml
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.g.resources
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\_11._10._2018_P.Properties.Resources.resources
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.csproj.GenerateResource.Cache
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\CircularProgressBar.dll
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\WinFormAnimation.dll
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\CircularProgressBar.xml
+C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\WinFormAnimation.xml
