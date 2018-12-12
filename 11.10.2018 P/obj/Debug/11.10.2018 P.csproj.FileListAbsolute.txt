@@ -30,3 +30,23 @@ C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.20
 C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\WinFormAnimation.dll
 C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\CircularProgressBar.xml
 C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\21.10.2018\11.10.2018 P\bin\Debug\WinFormAnimation.xml
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\11.10.2018 P.exe.config
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\11.10.2018 P.exe
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\11.10.2018 P.pdb
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\CircularProgressBar.dll
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\WinFormAnimation.dll
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\CircularProgressBar.xml
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\WinFormAnimation.xml
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.csprojAssemblyReference.cache
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\MainWindow.g.cs
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\App.g.cs
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P_MarkupCompile.cache
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P_MarkupCompile.lref
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\MainWindow.baml
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.g.resources
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\_11._10._2018_P.Properties.Resources.resources
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.csproj.GenerateResource.cache
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.csproj.CoreCompileInputs.cache
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.csproj.CopyComplete
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.exe
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.pdb
