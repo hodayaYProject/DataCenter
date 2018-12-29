@@ -103,7 +103,7 @@ namespace _11._10._2018_P
         public void sortFiles(DirectoryInfo folder, int parentCategory,int categoryCode)
         {
             insertToCategoryTbl(categoryCode, parentCategory, folder.Name);
-            string targetPath = @"C:\משתמשים\BATABASEForDelete";
+            string targetPath = @"C:\משתמשים\BATABASE";
             //אם יש עוד תקיות אז
             int i = 0;
             foreach (DirectoryInfo folderI in folder.GetDirectories())
