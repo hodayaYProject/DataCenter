@@ -50,3 +50,8 @@ C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P
 C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.csproj.CopyComplete
 C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.exe
 C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P.pdb
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\obj\Debug\11.10.2018 P_Content.g.cs
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\EntityFramework.dll
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\EntityFramework.xml
+C:\Users\Hodaya\Desktop\MYProject\31.10.2018\11.10.2018 P\bin\Debug\EntityFramework.SqlServer.xml
