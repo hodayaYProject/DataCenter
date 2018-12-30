@@ -36,7 +36,8 @@ namespace _11._10._2018_P
             string path1 = @"C:\משתמשים\";
             string pathToNewFolder = System.IO.Path.Combine(path1, "BATABASE");
             Directory.CreateDirectory(pathToNewFolder);
-            insertManagerUser("hodiyoav@gmail.com");
+            string mailOfManager = textBox1.Text;
+            insertManagerUser(mailOfManager);
             winForm.FolderBrowserDialog folderDialog = new winForm.FolderBrowserDialog();
             folderDialog.ShowNewFolderButton = false;
             folderDialog.SelectedPath = System.AppDomain.CurrentDomain.BaseDirectory;
@@ -54,13 +55,13 @@ namespace _11._10._2018_P
                         con.Open();
                         foreach (DirectoryInfo folderI in folder.GetDirectories())
                         {
-                            sortFiles(folderI, 0,(index++)*10);
+                            sortFiles(folderI, 0, (index++) * 10);
                         }
                         con.Close();
                     }
                     MessageBox.Show(" !!!הצליח להעתיק");
-                    messageToEmail = "Hello,/n Welcome to SourceNet,/n It appears that you are the system administrator /n/n UserName:SystemAdministrator /n Password:manger123 /n Regards";
-                    SendEmailToUser("Message From SourceNet System", messageToEmail, "hodiyoav@gmail.com");
+                    messageToEmail = "Hello,\n Welcome to SourceNet,\n It appears that you are the system administrator\n\n UserName:SystemAdministrator \n Password:manger123 \n Regards";
+                    SendEmailToUser("Message From SourceNet System", messageToEmail, mailOfManager);
 
                 }
                 catch (Exception)
@@ -222,6 +223,11 @@ namespace _11._10._2018_P
                 }
             }
 
+
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
 
         }
     }

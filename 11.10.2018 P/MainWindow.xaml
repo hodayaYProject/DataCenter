@@ -7,8 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="435.635" Width="997.017">
     <Grid Margin="-74,0,74,-0.6">
-
-        <Button Background="DarkOrange"  Content="בחר תקית מקור" Click="choose_folder" Margin="363,277,233.4,58"/>
+        <TextBlock x:Name = "textBlock" HorizontalAlignment = "Center"
+         Margin = "684,246,233.4,0" TextWrapping = "Wrap" Text = ":כתובת מייל"
+         VerticalAlignment = "Top" Height = "32" Width = "73" FontWeight="Bold"/>
+        <TextBox x:Name="textBox1" Text="{Binding SomeProperty, UpdateSourceTrigger=PropertyChanged, StringFormat='{}{0}%'}" Margin="368,242,316.4,133" />
+        <Button Background="DarkOrange"  Content="בחר תקית מקור" Click="choose_folder" Margin="363,303,233.4,31" FontWeight="Bold"/>
         <Image Source="C:\Users\Hodaya\Desktop\לימודים תשעח\פרויקט גמר\WPF\31.10.2018\11.10.2018 P\לוגו.jpg" Margin="391,70,279.4,170" ></Image>
+
     </Grid>
 </Window>
+    
